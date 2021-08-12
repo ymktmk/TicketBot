@@ -1,0 +1,11 @@
+/Users/yamaokatomoki/Projects/idol/idol/bin/Debug/idol.exe
+/Users/yamaokatomoki/Projects/idol/idol/bin/Debug/idol.pdb
+/Users/yamaokatomoki/Projects/idol/idol/obj/Debug/idol.csproj.AssemblyReference.cache
+/Users/yamaokatomoki/Projects/idol/idol/obj/Debug/idol.csproj.CoreCompileInputs.cache
+/Users/yamaokatomoki/Projects/idol/idol/obj/Debug/idol.exe
+/Users/yamaokatomoki/Projects/idol/idol/obj/Debug/idol.pdb
+/Users/yamaokatomoki/Projects/idol/idol/bin/Debug/WebDriver.dll
+/Users/yamaokatomoki/Projects/idol/idol/bin/Debug/WebDriver.xml
+/Users/yamaokatomoki/Projects/idol/idol/obj/Debug/idol.csproj.CopyComplete
+/Users/yamaokatomoki/Projects/idol/idol/bin/Debug/WebDriver.Support.dll
+/Users/yamaokatomoki/Projects/idol/idol/bin/Debug/WebDriver.Support.xml
